@@ -37,7 +37,7 @@ with open('dataset_all.csv', 'w', newline='') as train:
         for row in reader:
             writer.writerow(row)
 			
-	with open('sogou_extract.csv', 'r') as baidu:
+    with open('sogou_extract.csv', 'r') as baidu:
         reader = csv.reader(baidu)
         for row in reader:
             writer.writerow(row)
