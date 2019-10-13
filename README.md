@@ -1,6 +1,8 @@
 # 演示视频
 链接：https://pan.baidu.com/s/1SfywE5AoKXF3e9IyjeECvg   
 提取码：jkor 
+# 技术路线图
+![](https://github.com/linwt/Intelligent-Customer-Service/blob/master/data/pic/framework.jpg)
 # 文件说明
 * data：包括爬虫数据、扩充数据、官方数据
 * security：爬取百度、百度知道、搜狗数据
